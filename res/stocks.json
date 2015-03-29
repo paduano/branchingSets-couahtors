@@ -1,0 +1,424 @@
+{
+	"stocks": {
+		"africa": {
+				"Energy": {
+					"symbol": "SSL",
+					"marketcap": ""23097291640.85""
+				},
+			"Basic_Industries": [
+				{
+					"symbol": "AU",
+					"marketcap": ""4282509816""
+				},
+				{
+					"symbol": "GFI",
+					"marketcap": ""3256653832.29""
+				},
+				{
+					"symbol": "SBGL",
+					"marketcap": ""2179687475.3""
+				},
+				{
+					"symbol": "HMY",
+					"marketcap": ""1024189800.45""
+				},
+				{
+					"symbol": "DRD",
+					"marketcap": ""72432586.2""
+				}
+			]
+		},
+		"australia": {
+			"Technology": [
+				{
+					"symbol": "MOKO",
+					"marketcap": ""72467908.8""
+				},
+				{
+					"symbol": "CBDE",
+					"marketcap": ""1828811.7""
+				}
+			],
+				"Finance": {
+					"symbol": "WBK",
+					"marketcap": ""92898363472.92""
+				},
+				"Energy": {
+					"symbol": "IOC",
+					"marketcap": ""2311883980.52""
+				},
+			"Health_Care": [
+				{
+					"symbol": "PRAN",
+					"marketcap": ""55249876.48""
+				},
+				{
+					"symbol": "PBMD",
+					"marketcap": ""34608646.41""
+				},
+				{
+					"symbol": "NVGN",
+					"marketcap": ""25162880.6095""
+				}
+			],
+			"Basic_Industries": [
+				{
+					"symbol": "BHP",
+					"marketcap": ""138391216585.5""
+				},
+				{
+					"symbol": "RIO",
+					"marketcap": ""89248826915""
+				}
+			]
+		},
+		"middleeast": {
+			"Technology": [
+				{
+					"symbol": "CHKP",
+					"marketcap": ""15877518667.56""
+				},
+				{
+					"symbol": "NICE",
+					"marketcap": ""3534277929.07""
+				},
+				{
+					"symbol": "TSEM",
+					"marketcap": ""1158043332.69""
+				},
+				{
+					"symbol": "WIX",
+					"marketcap": ""673032311.94""
+				},
+				{
+					"symbol": "EZCH",
+					"marketcap": ""646545597.25""
+				},
+				{
+					"symbol": "FORTY",
+					"marketcap": ""361934849.38""
+				},
+				{
+					"symbol": "SILC",
+					"marketcap": ""327581565.54""
+				},
+				{
+					"symbol": "ALLT",
+					"marketcap": ""311191124.4""
+				},
+				{
+					"symbol": "MGIC",
+					"marketcap": ""310690582.4""
+				},
+				{
+					"symbol": "CKSW",
+					"marketcap": ""273604321.5""
+				},
+				{
+					"symbol": "PERI",
+					"marketcap": ""248012875.89""
+				}
+			],
+			"Health_Care": [
+				{
+					"symbol": "TEVA",
+					"marketcap": ""48096686796.48""
+				},
+				{
+					"symbol": "TARO",
+					"marketcap": ""6439443011.22""
+				},
+				{
+					"symbol": "ELOS",
+					"marketcap": ""439299316.16""
+				},
+				{
+					"symbol": "CGEN",
+					"marketcap": ""407739339.92""
+				},
+				{
+					"symbol": "LMNS",
+					"marketcap": ""401048406.56""
+				},
+				{
+					"symbol": "MZOR",
+					"marketcap": ""252738823.04""
+				}
+			],
+				"Basic_Industries": {
+					"symbol": "EVGN",
+					"marketcap": ""246579529.196""
+				}
+		},
+		"southamerica": {
+			"Finance": [
+				{
+					"symbol": "ITUB",
+					"marketcap": ""68612644947.77""
+				},
+				{
+					"symbol": "BBD",
+					"marketcap": ""53365360800""
+				},
+				{
+					"symbol": "BFR",
+					"marketcap": ""3051255775.15""
+				},
+				{
+					"symbol": "BMA",
+					"marketcap": ""2973672082.74""
+				},
+				{
+					"symbol": "GGAL",
+					"marketcap": ""2734456432.77""
+				}
+			],
+			"Energy": [
+				{
+					"symbol": "PBR",
+					"marketcap": ""41807612660.65""
+				},
+				{
+					"symbol": "YPF",
+					"marketcap": ""10261530769.37""
+				},
+				{
+					"symbol": "PZE",
+					"marketcap": ""1169001000""
+				}
+			],
+			"Basic_Industries": [
+				{
+					"symbol": "VALE",
+					"marketcap": ""36743563222.38""
+				},
+				{
+					"symbol": "FBR",
+					"marketcap": ""7129138894.02""
+				},
+				{
+					"symbol": "BAK",
+					"marketcap": ""3332569154.64""
+				},
+				{
+					"symbol": "GFA",
+					"marketcap": ""283605982.59""
+				}
+			]
+		},
+		"asia": {
+			"Technology": [
+				{
+					"symbol": "TSM",
+					"marketcap": ""127053937500""
+				},
+				{
+					"symbol": "INFY",
+					"marketcap": ""42146653268.16""
+				},
+				{
+					"symbol": "WIT",
+					"marketcap": ""34207820576.51""
+				},
+				{
+					"symbol": "AVGO",
+					"marketcap": ""32871687288.84""
+				},
+				{
+					"symbol": "KYO",
+					"marketcap": ""18636630849.6""
+				}
+			],
+			"Finance": [
+				{
+					"symbol": "LFC",
+					"marketcap": ""116469427695.46""
+				},
+				{
+					"symbol": "MTU",
+					"marketcap": ""88731020540.7""
+				},
+				{
+					"symbol": "SMFG",
+					"marketcap": ""54279830994.7""
+				},
+				{
+					"symbol": "HDB",
+					"marketcap": ""50081089193.73""
+				},
+				{
+					"symbol": "IBN",
+					"marketcap": ""33811536692.96""
+				},
+				{
+					"symbol": "NMR",
+					"marketcap": ""21827450958.04""
+				},
+				{
+					"symbol": "SHG",
+					"marketcap": ""18185554161.45""
+				}
+			],
+			"Energy": [
+				{
+					"symbol": "PTR",
+					"marketcap": ""207509184629.64""
+				},
+				{
+					"symbol": "SNP",
+					"marketcap": ""96648311501.5""
+				}
+			],
+				"Basic_Industries": {
+					"symbol": "PKX",
+					"marketcap": ""22121043776.2""
+				}
+		},
+		"europe": {
+				"Technology": {
+					"symbol": "SAP",
+					"marketcap": ""84105042975.12""
+				},
+			"Finance": [
+				{
+					"symbol": "RBS",
+					"marketcap": ""65072016445.41""
+				},
+				{
+					"symbol": "BCS",
+					"marketcap": ""64413237972.42""
+				},
+				{
+					"symbol": "PUK",
+					"marketcap": ""64267418608""
+				},
+				{
+					"symbol": "BBVA",
+					"marketcap": ""58282970229""
+				}
+			],
+			"Energy": [
+				{
+					"symbol": "BP",
+					"marketcap": ""127386730328.84""
+				},
+				{
+					"symbol": "SLB",
+					"marketcap": ""108286776223.64""
+				},
+				{
+					"symbol": "E",
+					"marketcap": ""66941693778.6""
+				},
+				{
+					"symbol": "STO",
+					"marketcap": ""59372609057.86""
+				}
+			],
+			"Health_Care": [
+				{
+					"symbol": "NVS",
+					"marketcap": ""237607917018.42""
+				},
+				{
+					"symbol": "SNY",
+					"marketcap": ""127009051520.64""
+				},
+				{
+					"symbol": "NVO",
+					"marketcap": ""125133000000""
+				},
+				{
+					"symbol": "GSK",
+					"marketcap": ""114599420000""
+				},
+				{
+					"symbol": "AZN",
+					"marketcap": ""86237640000""
+				},
+				{
+					"symbol": "SHPG",
+					"marketcap": ""47713605389.8""
+				}
+			],
+			"Basic_Industries": [
+				{
+					"symbol": "UL",
+					"marketcap": ""133246142887.05""
+				},
+				{
+					"symbol": "UN",
+					"marketcap": ""132005940422.04""
+				}
+			]
+		},
+		"northamerica": {
+			"Technology": [
+				{
+					"symbol": "AAPL",
+					"marketcap": ""753489401280""
+				},
+				{
+					"symbol": "GOOGL",
+					"marketcap": ""393941063107.69""
+				},
+				{
+					"symbol": "GOOG",
+					"marketcap": ""390432452666.48""
+				},
+				{
+					"symbol": "MSFT",
+					"marketcap": ""355059829558.48""
+				},
+				{
+					"symbol": "ORCL",
+					"marketcap": ""190497500460""
+				},
+				{
+					"symbol": "INTC",
+					"marketcap": ""161473920000""
+				},
+				{
+					"symbol": "IBM",
+					"marketcap": ""159165944417.16""
+				}
+			],
+			"Finance": [
+				{
+					"symbol": "JPM",
+					"marketcap": ""231043529033.35""
+				},
+				{
+					"symbol": "BAC",
+					"marketcap": ""168733851937.16""
+				},
+				{
+					"symbol": "C",
+					"marketcap": ""163008830832.57""
+				}
+			],
+			"Energy": [
+				{
+					"symbol": "XOM",
+					"marketcap": ""367538761106.92""
+				},
+				{
+					"symbol": "GE",
+					"marketcap": ""260278559256.24""
+				},
+				{
+					"symbol": "CVX",
+					"marketcap": ""197719773177.52""
+				}
+			],
+				"Health_Care": {
+					"symbol": "JNJ",
+					"marketcap": ""284555214376.72""
+				},
+				"Basic_Industries": {
+					"symbol": "PG",
+					"marketcap": ""229975420869.84""
+				}
+		}
+	}
+}
